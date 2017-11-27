@@ -1,0 +1,23 @@
+body {
+	background-color: #f1f1f1;
+}
+
+.container {
+	background-color: white;
+	padding-bottom: 1%;
+	padding-top: 1%;
+}
+
+.home-books .rate-book {
+	font-size: 1.2em;
+}
+
+.home-books th {
+	color: #aaa;
+	font-weight: normal;
+}
+
+.comment_title {
+	color: #428bca;
+}
+
